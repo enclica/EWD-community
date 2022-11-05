@@ -1,4 +1,4 @@
-# EWD-community
+# EWD-community (PENDING FOR CODE)
 The community version of the EWD IDE.
 
 
