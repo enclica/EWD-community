@@ -17,6 +17,12 @@ https://github.com/MahApps/MahApps.Metro
 
 https://github.com/TheHaleyProject/HaleyWPF
 
+https://github.com/JamesNK/Newtonsoft.Json
+
+https://github.com/cefsharp/CefSharp/
+
+
+
 
 
 Some of the code may look strange.
